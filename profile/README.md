@@ -19,9 +19,6 @@ Another feature within the scope of the project is to offer users an interactive
 
 Along with all these features, it is aimed to appeal to people who do not want to miss any event, who want to participate in different activities, who are looking for an activity proposal according to their interests, and who have difficulty finding a common activity with their friend group, who want to see the events their friends attend, who want to create their event and find participants in their activities.
 
-
-Sure! I've converted the LaTeX content to Markdown format for a `README.md` file:
-
 ---
 
 # Event Management Application
